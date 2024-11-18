@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\paypaylpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\paypaylpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\boletopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\boletopayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|c:\\users\\lsilva\\documents\\lab_leandro\\modelando-dominios-ricos\\paymentcontext\\paymentcontext.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DB638C-E739-4625-A223-EE58F973D60B}|PaymentContext.Domain\\PaymentContext.Domain.csproj|solutionrelative:paymentcontext.domain\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BoletoPayment.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\BoletoPayment.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\BoletoPayment.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\BoletoPayment.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\BoletoPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:19:57.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\CreditCardPayment.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:19:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PayPaylPayment.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\PayPaylPayment.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\PayPaylPayment.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\PayPaylPayment.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\PayPaylPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:19:13.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Subscription.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:18:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wAQAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:12:40.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "PaymentContext.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "PaymentContext.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:09:19.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

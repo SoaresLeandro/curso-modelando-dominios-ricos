@@ -7,7 +7,13 @@ public class Name : ValueObject
     public Name(string firstName, string lastName)
     {
         FisrtName = firstName;
-        LastName = lastName;
+        LastName = lastName;        
+
+        if(string.IsNullOrEmpty(FisrtName))
+            AddNotification("Name.FirstName", "Nome inválido");
+
+        if(string.IsNullOrEmpty(LastName))
+        AddNotification("Name.LastName", "Nome inválido");
     }
 
     public string FisrtName { get; private set;}

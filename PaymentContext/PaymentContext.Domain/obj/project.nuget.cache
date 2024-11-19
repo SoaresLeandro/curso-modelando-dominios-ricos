@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/qXH3UxQ1Rc=",
+  "dgSpecHash": "2vK0GJO3ltk=",
   "success": true,
   "projectFilePath": "C:\\Users\\lsilva\\Documents\\lab_leandro\\modelando-dominios-ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\lsilva\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

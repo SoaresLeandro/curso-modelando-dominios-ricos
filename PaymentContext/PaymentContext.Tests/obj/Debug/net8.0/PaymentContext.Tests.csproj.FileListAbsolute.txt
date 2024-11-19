@@ -1,10 +1,4 @@
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_PaymentContext.Tests
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.csproj.AssemblyReference.cache
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfoInputs.cache
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfo.cs
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
-C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.sourcelink.json
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\testhost.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\testhost.exe
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
@@ -14,6 +8,7 @@ C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\Pa
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Tests.runtimeconfig.json
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Tests.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Tests.pdb
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Flunt.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -109,6 +104,12 @@ C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\Pa
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Shared.pdb
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\PaymentContext.Domain.pdb
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.csproj.AssemblyReference.cache
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfoInputs.cache
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.AssemblyInfo.cs
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.sourcelink.json
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentC.9220BB65.Up2Date
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\PaymentContext.Tests.dll
 C:\Users\lsilva\Documents\lab_leandro\modelando-dominios-ricos\PaymentContext\PaymentContext.Tests\obj\Debug\net8.0\refint\PaymentContext.Tests.dll

@@ -9,7 +9,7 @@ public class StudentTests{
 
     [TestMethod]
     public void AdicionarAssinatura(){
-        var name = new Name("Teste", "");
+        var name = new Name("FirstName", "L");
         var document = new Document("000.000.00-00", EDocumentType.CPF);
         var email = new Email("teste@email.com");
         var address = new Address("", "", "", "", "", "", "");

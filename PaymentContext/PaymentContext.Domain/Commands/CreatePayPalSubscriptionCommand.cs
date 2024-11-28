@@ -7,21 +7,21 @@ namespace PaymentContext.Domain.Commands;
 
 public class CreatePayPalSubscriptionCommand : Notifiable<Notification>, ICommand
 {
-    public string FisrtName { get; private set;}
-    public string LastName { get; private set; }
-    public string Document { get; private set; }
-    public string Email { get; private set; }
-    public string TransactionCode { get; private set; }
-    public string PaymentNumber { get; private set; }
-    public DateTime PaidDate { get; private set; }
-    public DateTime ExpireDate { get; private set; }
-    public decimal Total { get; private set; }
-    public decimal TotalPaid { get; private set; }
-    public string Payer { get; private set; }
-    public string PayerEmail { get; private set; }
-    public string PayerDocument { get; private set; }
-    public EDocumentType PayerDocumentType { get; private set; }
-    public string Street { get; private set; }
+    public string FisrtName { get;  set;}
+    public string LastName { get;  set; }
+    public string Document { get;  set; }
+    public string Email { get;  set; }
+    public string TransactionCode { get;  set; }
+    public string PaymentNumber { get;  set; }
+    public DateTime PaidDate { get;  set; }
+    public DateTime ExpireDate { get;  set; }
+    public decimal Total { get;  set; }
+    public decimal TotalPaid { get;  set; }
+    public string Payer { get;  set; }
+    public string PayerEmail { get;  set; }
+    public string PayerDocument { get;  set; }
+    public EDocumentType PayerDocumentType { get;  set; }
+    public string Street { get;  set; }
     public string Number { get; set; }
     public string Neighborhood { get; set; }
     public string City { get; set; }

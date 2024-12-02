@@ -25,7 +25,7 @@ public class SubscriptionHandler : Notifiable<Notification>, IHandler<CreateBole
     {
         //Fail Fast Validation
         command.Validate();
-        if(command.IsValid)
+        if(!command.IsValid)
         {
             AddNotifications(command);
             return new CommandResult(false, "Não foi possível realizar o seu cadastro.");        
@@ -65,8 +65,11 @@ public class SubscriptionHandler : Notifiable<Notification>, IHandler<CreateBole
         subscription.AddPayment(payment);
         student.AddSubscription(subscription);
          
-        //Agrupar as validações
+        //Agrupar as notificações
         AddNotifications(document, email, address, student, subscription, payment);
+
+        if(!IsValid)
+            return new CommandResult(false, "Não foi possível realizar a sua assinatura.");     
 
         //Salvar as informações
         _studentRepository.CreateSubscription(student);

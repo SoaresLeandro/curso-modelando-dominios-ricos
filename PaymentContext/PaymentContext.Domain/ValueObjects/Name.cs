@@ -19,4 +19,6 @@ public class Name : ValueObject
 
     public string FisrtName { get; private set;}
     public string LastName { get; private set; }
+
+    public override string ToString() => $"{FisrtName} {LastName}";  
 }

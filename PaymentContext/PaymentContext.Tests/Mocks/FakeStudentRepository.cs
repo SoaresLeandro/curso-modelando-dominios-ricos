@@ -10,7 +10,7 @@ public class FakeStudentRepository : IStudentRepository
         throw new NotImplementedException();
     }
 
-    public bool DocumentExists(string document) => document.Equals("99999999999");
+    public bool DocumentExists(string document) => document.Equals("999999999");
 
     public bool EmailExists(string email) => email.Equals("teste@dominio.com");
 }

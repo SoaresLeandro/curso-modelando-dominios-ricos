@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaymentContext.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2118d44c2abeefe86400990cbb19dd9789a7aaea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ce6087581b3fbe426f0746ff790f4eb869bee0f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaymentContext.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaymentContext.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
